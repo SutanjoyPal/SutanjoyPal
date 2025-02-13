@@ -41,5 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-q6me.vercel.app/api?username=sutanjoypal&show_icons=true&theme=cobalt&locale=en" alt="sutanjoypal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sutanjoypal&theme=gruvbox" alt="sutanjoypal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-alpha-eight.vercel.app?user=sutanjoypal&theme=gruvbox" alt="sutanjoypal" /></p>
 
