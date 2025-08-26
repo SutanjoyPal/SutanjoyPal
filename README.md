@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computer Science Engineering from Jadavpur University.**
 
-- 🌱 I’m currently learning **Tensorflow,TypeScript**
+- 🌱 I’m currently learning **Tensorflow,TypeScript,Kubernetes**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
