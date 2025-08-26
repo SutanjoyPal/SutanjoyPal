@@ -5,19 +5,15 @@
 
 - 🔭 I’m currently studying **Computer Science Engineering from Jadavpur University.**
 
-- 🌱 I’m currently learning **Go,Tensorflow,TypeScript**
+- 🌱 I’m currently learning **Tensorflow,TypeScript**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 🤝 I’m looking for help with **Machine Leaning & App development**
 
-- 👨‍💻 All of my projects are available at [https://sutanjoypal.github.io/portfolio2/](https://sutanjoypal.github.io/portfolio2/)
-
 - 💬 Ask me about **C++,React,Python**
 
 - 📫 How to reach me **sutanjoypal04@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EWnRM7W2BhAlEcCEeFcjAdXeJS-DVVly/view?usp=sharing](https://drive.google.com/file/d/1EWnRM7W2BhAlEcCEeFcjAdXeJS-DVVly/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy working out**
 
